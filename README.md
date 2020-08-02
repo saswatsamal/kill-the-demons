@@ -1,3 +1,5 @@
+![Header](https://github.com/saswatsamal/kill-the-demons/blob/master/_imgs/1.png)
+
 # Kill the Demons
 A space game in which you have to kill the aliens!
 
@@ -16,7 +18,7 @@ During this lockdown we all are bored and we lack entertainment except Netflix! 
 --------
 
 ## Make it Yourself
-
+To make this game you need to follow these basics steps!!!
 
 ### What we have used to built this?
 - Arduino Nano : (although any version of an Arduino should suffice as long as it has at least 32K of program memory). Connections to other Arduinos may vary.
@@ -27,14 +29,18 @@ During this lockdown we all are bored and we lack entertainment except Netflix! 
 
 ### Circuit Diagram
 
+![Circuit Diagram](https://github.com/saswatsamal/kill-the-demons/blob/master/_imgs/circuit%20diagram.png)
+
 
 ### Code
-Visit [Here]() for the code.
+- Visit [Here](https://github.com/saswatsamal/kill-the-demons/blob/master/Kill_the_Demons/Kill_the_Demons.ino) for the code.
+- Download the code and upload to Arduino Nano and PLAY!
 
 --------
 
 ## Demo Video
 
+### Click [Here](https://youtu.be/-NE5X_6OUqo) to see the demo video.
 
 -----
 
